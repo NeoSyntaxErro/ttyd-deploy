@@ -1,0 +1,2 @@
+# ttyd-deploy
+ttyd deploy
