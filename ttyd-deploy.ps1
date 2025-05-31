@@ -1,4 +1,4 @@
-# FrankenShell Deployment Script
+# ttyd Web Shell Deployment Script
 # Scripted by: NeoSyntaxErro
 
 # Steps:
